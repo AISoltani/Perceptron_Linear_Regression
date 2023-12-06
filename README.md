@@ -17,9 +17,9 @@ git clone https://github.com/your-username/Perceptron_Linear_Regression.git
 
 Navigate to the repository's directory:
 
-Copy
+```bash
 cd Perceptron_Linear_Regression
-
+```
 
 Install the required Python packages:
 
