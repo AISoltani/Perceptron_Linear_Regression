@@ -35,7 +35,7 @@ Adjust the hyperparameters: Open the perceptron_linear_regression.py file and mo
 
 Run the script: Execute the perceptron_linear_regression.py script to train the model on your dataset and obtain predictions. The script will output the trained model's coefficients, the mean squared error, and a scatter plot comparing the predicted values against the ground truth values.
 
-Copy
+```bash
 python perceptron_linear_regression.py
 ```
 
