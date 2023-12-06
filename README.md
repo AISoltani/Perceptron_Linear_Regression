@@ -11,7 +11,7 @@ Matplotlib (version 3.0 or higher)
 Installation
 Clone this repository to your local machine using the following command:
 
-Copy
+```bash
 git clone https://github.com/your-username/Perceptron_Linear_Regression.git
 ```
 
