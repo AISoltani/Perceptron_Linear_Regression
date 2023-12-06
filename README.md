@@ -19,7 +19,7 @@ Navigate to the repository's directory:
 
 Copy
 cd Perceptron_Linear_Regression
-```
+
 
 Install the required Python packages:
 
