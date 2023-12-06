@@ -23,8 +23,7 @@ cd Perceptron_Linear_Regression
 
 Install the required Python packages:
 
-basic
-Copy
+```bash
 pip install -r requirements.txt
 ```
 Usage
