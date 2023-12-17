@@ -1,5 +1,6 @@
 ## Perceptron_Linear_Regression
 
+
 This repository contains an implementation of linear regression using the perceptron algorithm. The perceptron algorithm is a simple and widely used algorithm for binary classification tasks. In this case, we adapt it for linear regression, which is a supervised learning technique for predicting continuous values.
 
 Prerequisites
